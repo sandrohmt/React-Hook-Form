@@ -4,7 +4,7 @@ Uma aplicação simples para praticar a utilização do React-Hook-Form para cri
 
 ## Teste você mesmo: 
 
-- https://sandrohmt.github.io/Countries/
+- https://sandrohmt.github.io/React-Hook-Form/
 
 ## Contato
 
